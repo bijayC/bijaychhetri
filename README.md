@@ -1,1 +1,1 @@
-https://github.com/bijayC/bijaychhetri.git
+https://SushilChamp.github.io/portfolio_champ/
